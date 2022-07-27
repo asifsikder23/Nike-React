@@ -1,0 +1,23 @@
+.navbar-brand img{
+    width: 150px;
+}
+.bg-color{
+    background-color: #FFF9F4;
+}
+.banner-title{
+    color: #FA804C;
+}
+.banner-title2{
+    color: #363958;
+}
+.btn-color{
+    background-image: linear-gradient(#3D4FF3,#3543BC);
+}
+.items:hover{
+    transform: scale(1.1);
+    transition: 0.3s;
+}
+.social-link a{
+    text-decoration: none;
+    color: rgb(219, 219, 219);
+}
